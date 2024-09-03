@@ -1,5 +1,7 @@
 ##     Rodrigo Cakan
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=caakaan&show_icons=true&theme=radical)
+
+
   
   <div> 
   <a href="https://www.facebook.com/rodrigo.cakan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 

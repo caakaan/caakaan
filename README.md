@@ -1,5 +1,5 @@
 ##     Rodrigo Cakan
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=caakaan&show_icons=true&theme=radical)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=caakaan&show_icons=true&theme=dark)
 
 
   
